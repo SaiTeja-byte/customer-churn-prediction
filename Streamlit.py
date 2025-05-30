@@ -79,7 +79,7 @@ st.markdown('<header class="main-header"><h1>✨ Customer Churn Prediction</h1><
 st.markdown(
     """
     <div class="links">
-        <a href="https://github.com/BSHK57/customer-churn-prediction" target="_blank">🔗 GitHub Repository</a>
+        <a href="https://github.com/SaiTeja-byt/customer-churn-prediction" target="_blank">🔗 GitHub Repository</a>
         <a href="https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction/data" target="_blank">📄 Dataset Source</a>
     </div>
     """,
@@ -169,7 +169,7 @@ if submit_button:
 st.markdown(
     """
     <footer>
-        All Rights Reserved © Sai Hari Krishna, 2025
+        All Rights Reserved © Bathula Sai Teja, 2025
     </footer>
     """,
     unsafe_allow_html=True
