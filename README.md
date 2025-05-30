@@ -33,7 +33,7 @@ I have done a beautiful and lightweight **Streamlit web application** for predic
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/BSHK57/customer-churn-prediction.git
+   git clone https://github.com/SaiTeja-byte/customer-churn-prediction.git
    cd customer-churn-prediction
 
 2. **Install Required Libraries**
@@ -56,7 +56,7 @@ I have done a beautiful and lightweight **Streamlit web application** for predic
 
 5. **Run the app**:
    ```bash
-   streamlit run Strealit.py
+   streamlit run Streamlit.py
    ```
 
 ---
@@ -81,9 +81,9 @@ customer-churn-prediction/
 ---
 
 ## 📎 Links
-- [🔗 GitHub Repository](https://github.com/BSHK57/customer-churn-prediction)
+- [🔗 GitHub Repository](https://github.com/SaiTeja-byte/customer-churn-prediction)
 - [📄 Dataset Source](https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction/data)
-- [Streamlit](https://customer-churn-prediction-shk.streamlit.app/)
+- [Streamlit](https://customer-churn-prediction-saiteja.streamlit.app/)
 __Try to restart if it already dead__
 
 ---
